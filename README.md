@@ -18,7 +18,8 @@ Features TODO:
 - Send data collected about possible cases to central data collection database (Possibly MoH API) 
 - Emergency and information call center numbers, Help call me back button
 - Language feature (ability to change the interface to multiple Ethiopia languages)
-![Alt text](/screenshots/Screenshot_20200325-130858.jpg?raw=true)
+
+![Alt text](../../screenshots/Screenshot_20200325-130858.jpg?raw=true)
 ![Alt text](/screenshots/Screenshot_20200325-130908.jpg?raw=true)
 ![Alt text](/screenshots/Screenshot_20200325-133259.jpg?raw=true)
 A few resources to get you started if this is your first Flutter project:
