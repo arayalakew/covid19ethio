@@ -19,9 +19,10 @@ Features TODO:
 - Emergency and information call center numbers, Help call me back button
 - Language feature (ability to change the interface to multiple Ethiopia languages)
 
-![Screenshot_20200325-130858](https://user-images.githubusercontent.com/31925690/77590828-f0d53d80-6eee-11ea-93db-93b7ad13a197.jpg){:height="700px" width="400px"}
-![Screenshot_20200325-130908](https://user-images.githubusercontent.com/31925690/77590830-f2066a80-6eee-11ea-9c59-09c84ba386b4.jpg)
-![Screenshot_20200325-133259](https://user-images.githubusercontent.com/31925690/77590832-f3379780-6eee-11ea-89c5-68b0299c010f.jpg)
+![Screenshot_20200325-130858](https://user-images.githubusercontent.com/31925690/77591617-9f2db280-6ef0-11ea-985a-1d76236aeb05.jpg)
+![Screenshot_20200325-130908](https://user-images.githubusercontent.com/31925690/77591619-a05edf80-6ef0-11ea-829c-f5868db1c6ab.jpg)
+![Screenshot_20200325-133259](https://user-images.githubusercontent.com/31925690/77591621-a0f77600-6ef0-11ea-98d2-71aec5c71f7f.jpg)
+
 
 A few resources to get you started if this is your first Flutter project:
 
